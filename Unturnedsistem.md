@@ -1,2 +1,2 @@
 <h1>STEAMCMD UNTURNED KURULUMU</h1>
-<h4>Yeni gelen güncelleme ile sunucunuzu açmaya çalıştığınız da eğer <span style="color:red">Hosting dedicated servers using client files has been deprecated since June 2019.</span> hatası ile karşılaşıyorsanız.<h4>
+<p>Yeni gelen güncelleme ile sunucunuzu açmaya çalıştığınız da eğer <strong>Hosting dedicated servers using client files has been deprecated since June 2019.</strong> hatası ile karşılaşıyorsanız. bu adımları izleyerek sunucunuzu hızlıca başlatabilirsiniz.<p>
